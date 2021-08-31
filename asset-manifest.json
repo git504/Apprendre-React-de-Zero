@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Apprendre-React-de-Zero/static/css/main.f032afce.chunk.css",
+    "main.js": "/Apprendre-React-de-Zero/static/js/main.b367d872.chunk.js",
+    "main.js.map": "/Apprendre-React-de-Zero/static/js/main.b367d872.chunk.js.map",
+    "runtime-main.js": "/Apprendre-React-de-Zero/static/js/runtime-main.7f2d5032.js",
+    "runtime-main.js.map": "/Apprendre-React-de-Zero/static/js/runtime-main.7f2d5032.js.map",
+    "static/js/2.96bc1805.chunk.js": "/Apprendre-React-de-Zero/static/js/2.96bc1805.chunk.js",
+    "static/js/2.96bc1805.chunk.js.map": "/Apprendre-React-de-Zero/static/js/2.96bc1805.chunk.js.map",
+    "index.html": "/Apprendre-React-de-Zero/index.html",
+    "static/css/main.f032afce.chunk.css.map": "/Apprendre-React-de-Zero/static/css/main.f032afce.chunk.css.map",
+    "static/js/2.96bc1805.chunk.js.LICENSE.txt": "/Apprendre-React-de-Zero/static/js/2.96bc1805.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Apprendre-React-de-Zero/static/media/main.516fbcd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f2d5032.js",
+    "static/js/2.96bc1805.chunk.js",
+    "static/css/main.f032afce.chunk.css",
+    "static/js/main.b367d872.chunk.js"
+  ]
+}
